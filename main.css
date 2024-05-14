@@ -1,0 +1,21 @@
+body{
+  background-color: #dabd91;
+}
+.container{
+padding-top:30vh;
+}
+
+.text{
+    color:#ee5622;
+    font-size: 2em;
+}
+
+.btn{
+  color:#ee5622;
+  border-color: #ee5622;
+}
+
+.btn:hover{
+  color:#ee5622;
+  border-color: #ee5622;
+}
